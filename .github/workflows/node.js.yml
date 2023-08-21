@@ -43,3 +43,7 @@ jobs:
           script: |
             cd /home/ubuntu/landing_page_nextjs/bigrocks918-llc-landing-nextjs/
             ./deploy.sh
+      - name: Print output
+        run: echo "${{ steps.ssh.outputs.stdout }}"
+      - name: Print error
+        run: echo "${{ steps.ssh.outputs.stderr }}"
