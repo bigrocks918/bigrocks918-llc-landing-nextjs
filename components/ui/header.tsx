@@ -15,6 +15,7 @@ export default function Header() {
                 src="/bigrocksllc_logo_favicon/bigrocks918-high-resolution-logo-white-on-transparent-background.png"
                 width="200"
                 height="29"
+                alt="bigrocks918 llc logo"
               />
             </Link>
           </div>
