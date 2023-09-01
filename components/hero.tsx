@@ -83,23 +83,26 @@ export default function Hero() {
             </div>
           </div>
 
-          <Image
+          {/* <Image
             width="1024"
             height="768"
             src="/images/project-consultant.jpg"
             alt="Project Consulting image"
-          />
+          /> */}
           {/* <ModalVideo
             thumb={VideoThumb}
             thumbWidth={1024}
             thumbHeight={576}
             thumbAlt="Modal video thumbnail"
-            video="/images/project_discussion.jpg"
+            video="/videos/software_llc_logo.mp4"
             videoWidth={1920}
             videoHeight={1080}
           /> */}
         </div>
       </div>
+      <video loop autoPlay muted className="w-screen top-0 absolute z-[-1000]">
+        <source src="/videos/software_llc_logo.mp4" type="video/mp4" />
+      </video>
     </section>
   );
 }
