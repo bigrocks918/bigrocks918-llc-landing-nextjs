@@ -1,7 +1,7 @@
 export const metadata = {
-  title: "Bigrocks918 llc - Home",
+  title: "Angeloper llc - Home",
   description:
-    "Discover how US software startup Bigrocks918 is taking the lead in AI, Blockchain, and Business system development. Learn more about our innovative solutions and join us today.",
+    "Discover how US software startup Angeloper is taking the lead in AI, Blockchain, and Business system development. Learn more about our innovative solutions and join us today.",
 };
 
 /*

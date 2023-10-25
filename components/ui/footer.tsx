@@ -15,17 +15,18 @@ export default function Footer() {
                 {/* Logo */}
                 <Link href="/" className="inline-block" aria-label="Cruip">
                   <Image
-                    src="/bigrocksllc_logo_favicon/bigrocks918-high-resolution-logo-white-on-transparent-background.png"
-                    alt="bigrocks918 llc company logo"
+                    src="/angeloperllc_logo_favicon/angeloper-high-resolution-logo-white-on-transparent-background.png"
+                    alt="angeloper llc company logo"
                     width="200"
                     height="29"
                   />
                 </Link>
               </div>
               <div className="text-gray-400">
-                Discover how US software startup Bigrocks918 is taking the lead
-                in AI, Blockchain, and Business system development. Learn more
-                about our innovative solutions and join us today.
+                Discover how US software startup <strong>angeloper</strong> is
+                taking the lead in AI, Blockchain, and Business system
+                development. Learn more about our innovative solutions and join
+                us today.
               </div>
             </div>
 
@@ -243,7 +244,7 @@ export default function Footer() {
 
             {/* Copyrights note */}
             <div className="text-gray-400 text-sm mr-4">
-              &copy; https://www.bigrocks918.com. All rights reserved.
+              &copy; https://www.angeloper.com. All rights reserved.
             </div>
           </div>
         </div>

@@ -12,10 +12,10 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
               <Image
-                src="/bigrocksllc_logo_favicon/bigrocks918-high-resolution-logo-white-on-transparent-background.png"
+                src="/angeloperllc_logo_favicon/angeloper-high-resolution-logo-white-on-transparent-background.png"
                 width="200"
                 height="29"
-                alt="bigrocks918 llc logo"
+                alt="angeloper llc logo"
               />
             </Link>
           </div>

@@ -20,7 +20,7 @@ const architects_daughter = Architects_Daughter({
 
 export const metadata = {
   title: "Software Company",
-  description: "bigrocks918 llc",
+  description: "angeloper llc",
 };
 
 export default function RootLayout({

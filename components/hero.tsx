@@ -58,9 +58,10 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              A young and ambitious startup - Bigrocks918 LLC is on a mission to
-              revolutionize SMEs using AI, Blockchain, trending web2 technology
-              and we are driven by innovation, creativity, and excellence.
+              A young and ambitious startup - <strong>Angeloper</strong> LLC is
+              on a mission to revolutionize SMEs using AI, Blockchain, trending
+              web2 technology and we are driven by innovation, creativity, and
+              excellence.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
