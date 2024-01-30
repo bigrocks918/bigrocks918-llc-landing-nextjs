@@ -13,7 +13,7 @@ export default function Banner() {
             <div className="text-slate-500 inline-flex">
               <a
                 className="font-medium hover:underline text-slate-50"
-                href="https://calendly.com/tsumin-info/project-consultation"
+                href="https://calendly.com/bigrocks918geek/30min"
                 target="_blank"
                 rel="noreferrer"
               >
